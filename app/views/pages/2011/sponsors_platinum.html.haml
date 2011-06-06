@@ -10,7 +10,7 @@
         %img.logo{:alt => "Example Company, Ltd.", :src => "/2011/sponsors/#{sponsor._id}.png"}
       %div
         %p
-          = sponsor.localize(I18n.locale, :pr)
+          = raw sponsor.localize(I18n.locale, :pr)
         %p.right
           %a.linkMark{:href => "#{sponsor.url}", :target => "_blank"}
             = sponsor.url
