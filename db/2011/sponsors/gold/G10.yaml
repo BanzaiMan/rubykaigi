@@ -1,9 +1,11 @@
 ---
-wanted: true
 name:
-  en:
-  ja:
-url:
+  en: Rakuten,Inc.
+  ja: "楽天株式会社"
+url: "http://www.rakuten.co.jp/"
 pr:
-  en:
-  ja:
+  en: |-
+    The largest e-commerce company Rakuten provides the great place for ruby and OSS engineers with potential to change the world.
+  ja: |-
+    楽天はインターネットショッピングモール「楽天市場」をはじめとして、複数の事業を多角的に運営し、「日本発」の企業として台湾、ヨーロッパ、アメリカなどグローバルに事業規模を拡げています。 
+    事業の基盤となるテクノロジーの開発をほぼ自社内で行っており、『人財』としてのエンジニアを大切にしています。 
